@@ -1,4 +1,4 @@
--- MADE BY RIP#6666
+-- MADE BY Cataihub#0000
 -- send issues or suggestions to my discord: discord.gg/rips
 
 if not _G.Ignore then
